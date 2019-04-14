@@ -6,7 +6,7 @@
 
     <StackLayout>
         <!-- Place new controls here -->
-        <Label Text="Welcome to Xamarin.Forms! Alka" 
+        <Label Text="Welcome to Xamarin.Forms! Alin B" 
            HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" />
     </StackLayout>
