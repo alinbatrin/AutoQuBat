@@ -1,0 +1,12 @@
+C:\Alin\RepoXanmarin\AutoQuBat\AutoQuBat\QuizAuto\QuizAuto\QuizAuto\bin\Debug\netstandard2.0\QuizAuto.deps.json
+C:\Alin\RepoXanmarin\AutoQuBat\AutoQuBat\QuizAuto\QuizAuto\QuizAuto\bin\Debug\netstandard2.0\QuizAuto.dll
+C:\Alin\RepoXanmarin\AutoQuBat\AutoQuBat\QuizAuto\QuizAuto\QuizAuto\bin\Debug\netstandard2.0\QuizAuto.pdb
+C:\Alin\RepoXanmarin\AutoQuBat\AutoQuBat\QuizAuto\QuizAuto\QuizAuto\obj\Debug\netstandard2.0\QuizAuto.csprojAssemblyReference.cache
+C:\Alin\RepoXanmarin\AutoQuBat\AutoQuBat\QuizAuto\QuizAuto\QuizAuto\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Alin\RepoXanmarin\AutoQuBat\AutoQuBat\QuizAuto\QuizAuto\QuizAuto\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Alin\RepoXanmarin\AutoQuBat\AutoQuBat\QuizAuto\QuizAuto\QuizAuto\obj\Debug\netstandard2.0\QuizAuto.csproj.CoreCompileInputs.cache
+C:\Alin\RepoXanmarin\AutoQuBat\AutoQuBat\QuizAuto\QuizAuto\QuizAuto\obj\Debug\netstandard2.0\QuizAuto.AssemblyInfoInputs.cache
+C:\Alin\RepoXanmarin\AutoQuBat\AutoQuBat\QuizAuto\QuizAuto\QuizAuto\obj\Debug\netstandard2.0\QuizAuto.AssemblyInfo.cs
+C:\Alin\RepoXanmarin\AutoQuBat\AutoQuBat\QuizAuto\QuizAuto\QuizAuto\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Alin\RepoXanmarin\AutoQuBat\AutoQuBat\QuizAuto\QuizAuto\QuizAuto\obj\Debug\netstandard2.0\QuizAuto.dll
+C:\Alin\RepoXanmarin\AutoQuBat\AutoQuBat\QuizAuto\QuizAuto\QuizAuto\obj\Debug\netstandard2.0\QuizAuto.pdb
