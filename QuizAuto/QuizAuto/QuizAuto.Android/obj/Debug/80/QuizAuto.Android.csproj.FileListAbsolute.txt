@@ -102,4 +102,6 @@ C:\Alin\RepoXanmarin\AutoQuBat\AutoQuBat\QuizAuto\QuizAuto\QuizAuto.Android\obj\
 C:\Alin\RepoXanmarin\AutoQuBat\AutoQuBat\QuizAuto\QuizAuto\QuizAuto.Android\obj\Debug\80\android\assets\Xamarin.Forms.Core.pdb
 C:\Alin\RepoXanmarin\AutoQuBat\AutoQuBat\QuizAuto\QuizAuto\QuizAuto.Android\obj\Debug\80\android\assets\Xamarin.Forms.Platform.Android.pdb
 C:\Alin\RepoXanmarin\AutoQuBat\AutoQuBat\QuizAuto\QuizAuto\QuizAuto.Android\obj\Debug\80\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Alin\RepoXanmarin\AutoQuBat\AutoQuBat\QuizAuto\QuizAuto\QuizAuto\bin\Debug\netstandard2.0\QuizAuto.dll
+C:\Alin\RepoXanmarin\AutoQuBat\AutoQuBat\QuizAuto\QuizAuto\QuizAuto.Android\bin\Debug\QuizAuto.dll.mdb
 C:\Alin\RepoXanmarin\AutoQuBat\AutoQuBat\QuizAuto\QuizAuto\QuizAuto.Android\obj\Debug\80\linksrc\QuizAuto.dll.mdb
